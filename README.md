@@ -29,6 +29,6 @@ This command fires up the development server, typically accessible at http://loc
 React
 React Context API
 
-## Authors
+## Author
 
 Saurabh Khule.
